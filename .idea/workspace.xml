@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c15265e-473e-402c-8d82-8871330fba47" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/reset-project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/explore.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/animated-icon.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/animated-icon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/animated-icon.web.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-tabs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app-tabs.web.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/external-link.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hint-row.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/themed-text.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/themed-view.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ui/collapsible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/web-badge.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/theme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/use-color-scheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/use-color-scheme.web.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/use-theme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0000000000000102" />
+      <entry key="S60" value="1.0000002428976849" />
+      <entry key="M2" value="1.001260093076275" />
+      <entry key="M5" value="1.2203828120881965" />
+      <entry key="M10" value="2.2400255966411184" />
+      <entry key="M15" value="3.207126004881728" />
+      <entry key="M30" value="4.9299083451047" />
+      <entry key="H1" value="6.24469333747679" />
+      <entry key="H2" value="7.0590428797649745" />
+      <entry key="H4" value="7.51253050693553" />
+      <entry key="D1" value="7.916289332367639" />
+      <entry key="W1" value="7.987979516524825" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.4897101487934634" />
+      <entry key="MS500" value="0.8669375635146866" />
+      <entry key="S2" value="0.9649325467773533" />
+      <entry key="S5" value="0.9858226271213648" />
+      <entry key="S10" value="0.9928860091276162" />
+      <entry key="S30" value="0.9976230241717766" />
+      <entry key="S60" value="0.9988110472836351" />
+      <entry key="M2" value="1.0006634462628117" />
+      <entry key="M5" value="1.2199954796333365" />
+      <entry key="M10" value="2.2394660164102973" />
+      <entry key="M15" value="3.2065154090229173" />
+      <entry key="M30" value="4.929387988580454" />
+      <entry key="H1" value="6.244350129189909" />
+      <entry key="H2" value="7.0588454068198025" />
+      <entry key="H4" value="7.512424545646361" />
+      <entry key="D1" value="7.916270598036027" />
+      <entry key="W1" value="7.987976812919248" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JnXYBFxban4ji0t5m5OLngw25V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.index.js.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2026.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HomePC\Desktop\sparrow\mobile_app\my_app\src\app\(tabs)" />
+      <recent name="C:\Users\HomePC\Desktop\sparrow\mobile_app\my_app\src\app" />
+      <recent name="C:\Users\HomePC\Desktop\sparrow\mobile_app\my_app\example" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c15265e-473e-402c-8d82-8871330fba47" name="Changes" comment="" />
+      <created>1790297850807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790297850807</updated>
+      <workItem from="1790297851807" duration="2530000" />
+      <workItem from="1790300611645" duration="688000" />
+      <workItem from="1790301343960" duration="467000" />
+      <workItem from="1790301879398" duration="7871000" />
+      <workItem from="1790439603854" duration="220000" />
+      <workItem from="1790439897993" duration="2799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.js" />
+        <option value="$PROJECT_DIR$/node_modules/tailwindcss/stubs/tailwind.config.cjs" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,9 +1,13 @@
 import { Link } from "expo-router";
-import { Text, View } from "react-native";
+import { Text } from "react-native";
+import { styled } from "nativewind";
+import { SafeAreaView as RNSafeAreaView } from "react-native-safe-area-context";
+
+const SafeAreaView = styled(RNSafeAreaView);
 
 export default function App() {
   return (
-    <View className="flex-1 items-center justify-center bg-background">
+    <SafeAreaView className="flex-1 bg-background p-5">
       <Text className="text-xl font-bold text-success">Welcome to Roland!</Text>
       <Text className="text-lg text-muted-foreground px-4">
         This is a sample app using NativeWind and Expo Router. This is a sample
@@ -29,14 +33,16 @@ export default function App() {
         Go to sign Up
       </Link>
 
-      <Link href="/subscriptions/spotify">
-      Spotify Subscription
-      </Link>
+      <Link href="/subscriptions/spotify">Spotify Subscription</Link>
 
-      <Link href={{
-        pathname: "/subscriptions/[id]",
-        params: {id: "claude"}
-      }}>Claude Max Subscription</Link>
-    </View>
+      <Link
+        href={{
+          pathname: "/subscriptions/[id]",
+          params: { id: "claude" },
+        }}
+      >
+        Claude Max Subscription
+      </Link>
+    </SafeAreaView>
   );
 }
