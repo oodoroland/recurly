@@ -1,6 +1,6 @@
 import { Link } from "expo-router";
-import { Text } from "react-native";
 import { styled } from "nativewind";
+import { Text } from "react-native";
 import { SafeAreaView as RNSafeAreaView } from "react-native-safe-area-context";
 
 const SafeAreaView = styled(RNSafeAreaView);
@@ -8,40 +8,24 @@ const SafeAreaView = styled(RNSafeAreaView);
 export default function App() {
   return (
     <SafeAreaView className="flex-1 bg-background p-5">
-      <Text className="text-xl font-bold text-success">Welcome to Roland!</Text>
-      <Text className="text-lg text-muted-foreground px-4">
-        This is a sample app using NativeWind and Expo Router. This is a sample
-        app using NativeWind and Expo Router.This is a sample app using
-        NativeWind and Expo Router.
-      </Text>
+      <Text className="text-7xl font-sans-extrabold">Home</Text>
       <Link
         href="/onboarding"
-        className="mt-4 rounded bg-primary text-white p-4"
+        className="mt-4 rounded font-sans-bold bg-primary text-white p-4"
       >
-        Get Started
+        Get to Onboarding
       </Link>
       <Link
         href="/(auth)/sign-in"
-        className="mt-4 rounded bg-primary text-white p-4"
+        className="mt-4 rounded font-sans-bold bg-primary text-white p-4"
       >
         Go to sign In
       </Link>
       <Link
         href="/(auth)/sign-up"
-        className="mt-4 rounded bg-primary text-white p-4"
+        className="mt-4 rounded font-sans-bold bg-primary text-white p-4"
       >
         Go to sign Up
-      </Link>
-
-      <Link href="/subscriptions/spotify">Spotify Subscription</Link>
-
-      <Link
-        href={{
-          pathname: "/subscriptions/[id]",
-          params: { id: "claude" },
-        }}
-      >
-        Claude Max Subscription
       </Link>
     </SafeAreaView>
   );
